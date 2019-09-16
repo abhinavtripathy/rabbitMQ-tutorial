@@ -1,0 +1,22 @@
+{
+  "name": "rabbitmq-tutorial",
+  "version": "1.0.0",
+  "description": "Sample RabbitMQ Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavtripathy/rabbitMQ-tutorial.git"
+  },
+  "author": "Abhinav Tripathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhinavtripathy/rabbitMQ-tutorial/issues"
+  },
+  "homepage": "https://github.com/abhinavtripathy/rabbitMQ-tutorial#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
